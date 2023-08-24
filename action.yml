@@ -1,4 +1,4 @@
-name: "Linting process models"
+name: "Linting BPMN models"
 description: "GitHub Action for automated linting of BPMN process models"
 author: "Kristoffer Högberg"
 
