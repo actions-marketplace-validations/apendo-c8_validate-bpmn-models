@@ -8,7 +8,7 @@ You can simply refer to this GitHub action in any GitHub workflow.
 
 ```yaml
          - name: Validate BPMN process models
-           uses: apendo-c8/validate-bpmn-models-action@v1
+           uses: apendo-c8/validate-bpmn-models@v1
            with:
               bpmn-files-path: '<path-to-process-models-folder>'
               custom-rules-folder: '<path-to-custom-rules-folder>'
