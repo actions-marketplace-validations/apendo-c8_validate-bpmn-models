@@ -1,5 +1,5 @@
-name: "Validate BPMN process models"
-description: "GitHub Action workflow for automated validation of BPMN process models"
+name: "Linting process models"
+description: "GitHub Action for automated linting of BPMN process models"
 author: "Kristoffer Högberg"
 
 inputs:
