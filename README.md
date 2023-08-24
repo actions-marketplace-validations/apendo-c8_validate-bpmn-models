@@ -7,7 +7,7 @@ This GitHub Action workflow is designed to streamline the validation process for
 You can simply refer to this GitHub action in any GitHub workflow.
 
 ```yaml
-         - name: Validate BPMN process models
+         - name: Validate BPMN models
            uses: apendo-c8/validate-bpmn-models@v1
            with:
               bpmn-files-path: '<path-to-process-models-folder>'
